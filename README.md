@@ -55,7 +55,8 @@ Installation
 Screenshots
 ג
 The chess board after white first move (Pawn to E4)
-![Uploading מסע ראשון.PNG…]()
+![image](https://github.com/ayubix/Chess-Console-Application/assets/86429159/e3d6d083-856e-423e-b026-21a3279d738f)
+
 
 
 
@@ -70,7 +71,8 @@ Example of a game ended in draw by offer.
 
 Example of a Scholar's mate, game ended in White victory.
 
-![Uploading מט.PNG…]()
+![image](https://github.com/ayubix/Chess-Console-Application/assets/86429159/6cb4d1b9-c036-4217-bf33-d7769a82e7b0)
+
 
 
 
