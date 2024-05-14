@@ -66,11 +66,14 @@ The chess board after 4 moves , showing the Italian game.
 Example of a game ended in draw by offer.
 
 
-![image](https://github.com/ayubix/Chess-Console-Application/assets/86429159/4854d381-501e-4f59-b581-a3b8b4e9d98f)
+![image](https://github.com/ayubix/Chess-Console-Application/assets/86429159/c17c60a3-e07a-4c0a-b28c-94ede3d884ce)
+
 
 Example of a Scholar's mate, game ended in White victory.
 
-![image](https://github.com/ayubix/Chess-Console-Application/assets/86429159/6cb4d1b9-c036-4217-bf33-d7769a82e7b0)
+
+![image](https://github.com/ayubix/Chess-Console-Application/assets/86429159/9f347a8c-8168-4067-9174-234cca122c65)
+
 
 
 
