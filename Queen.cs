@@ -1,4 +1,4 @@
-﻿using ChessApp;
+using ChessApp;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
