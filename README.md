@@ -26,6 +26,38 @@ Follow the standard algebraic notation for moves **(e.g., "e2e4" to move the paw
 Example of castling: **"e1g1" (for white kingside castling) or "e8g8" (for black kingside castling)**.
 
 
+
+## Piece Representation on the Console Board
+
+
+In our chess console app, each piece on the board is represented by a two-character code. 
+The first character indicates the color of the piece, and the second character denotes the type of the piece.
+
+### Here’s a detailed explanation:
+Color of the Piece:
+
+### W - White
+### B - Black
+
+
+ Type of the Piece:
+
+### P - Pawn
+### R - Rook
+### N - Knight
+### B - Bishop
+### Q - Queen
+### K - King
+ Examples:
+### WP - White Pawn
+### WR - White Rook
+### WN - White Knight
+### WB - White Bishop
+### BR - Black Rook
+### BN - Black Knight
+### BB - Black Bishop
+
+
 ## Prerequisites
 Make sure you have Visual Studio 2022 installed on your system, along with the .NET Core SDK.
 
