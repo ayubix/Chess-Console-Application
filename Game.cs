@@ -514,7 +514,7 @@ namespace ChessApp
         // Check if the 50 moves rule was reached
         public bool fiftyMovesScenario()
         {
-            if (gameMovesNumber == 5)
+            if (gameMovesNumber == 100)
             {
                 drawGameEvents("50");
                 return true;
